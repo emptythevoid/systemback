@@ -19,7 +19,7 @@ sudo apt update
 
 Second, install dependencies using this command:
 
-sudo apt install libqt5core5a casper live-boot isolinux syslinux-utils
+sudo apt install libqt5core5a casper live-boot isolinux syslinux-utils libqt5gui5 libqt5widgets5 xterm
 
 Third, download the .zip file and extract it.  Navigate to it and run this command to install all the deb files:
 
