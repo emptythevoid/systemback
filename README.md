@@ -25,4 +25,6 @@ Third, download the .zip file and extract it.  Navigate to it and run this comma
 
 sudo dpkg -i ./*.deb
 
-  
+## Video Walkthrough
+[https://www.youtube.com/watch?v=eUzqFv4LaC8]
+
