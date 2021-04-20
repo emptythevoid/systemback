@@ -15,7 +15,9 @@ This repackaging I've created skips the install script entirely.
 
 Download the .zip file and extract it.  Navigate to it and run this command to install all the deb files:
 
+```
 sudo apt install ./*.deb
+```
 
 This should automatically install any required dependencies
 
