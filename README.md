@@ -13,18 +13,10 @@ This repackaging I've created skips the install script entirely.
 
 ## Getting Started
 
-First, open a terminal and make sure your apt cache is up to date
+Download the .zip file and extract it.  Navigate to it and run this command to install all the deb files:
 
-sudo apt update
+sudo apt install ./*.deb
 
-Second, install dependencies using this command:
+This should automatically install any required dependencies
 
-sudo apt install libqt5core5a casper live-boot isolinux syslinux-utils libqt5gui5 libqt5widgets5 xterm
-
-Third, download the .zip file and extract it.  Navigate to it and run this command to install all the deb files:
-
-sudo dpkg -i ./*.deb
-
-## Video Walkthrough
-https://www.youtube.com/watch?v=eUzqFv4LaC8
 
